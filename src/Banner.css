@@ -1,0 +1,19 @@
+.banner{
+    height: 500px;
+    /* padding: 10px; */
+}
+.banner-content{
+    margin-left: 40px;
+    padding-top: 330px;
+    height: 170px;
+}
+.title{
+    font-style: inherit;
+    margin-bottom: 10px;
+    font-family: Cambria, Georgia, Times, 'Times New Roman', serif;
+}
+
+.overview{
+    width: 600px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

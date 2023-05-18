@@ -1,0 +1,12 @@
+.nav{
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+img{
+    margin-left: 8px;
+    height: 70px;
+}
+.navBlack{
+    background-color: black;
+}
